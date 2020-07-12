@@ -1,4 +1,5 @@
-### Ambroise BAZIE 👋
+### Ambroise BAZIE JAVASCRIPT DEVELOPER
+
 
 <!--
 **ognanshissi/ognanshissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
