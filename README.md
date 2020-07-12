@@ -1,7 +1,6 @@
 ![logo](https://raw.githubusercontent.com/ognanshissi/images/master/bg.png)
 
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=sebastienlorber&tw_p=followbutton">@sebastienlorber</a> -
   <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">LinkedIn</a> -
   <a href="https://stackoverflow.com/users/10874360/ambroise-bazie">StackOverflow</a> -
   <a href="https://dev.to/ognanshissi">Dev.to</a>
