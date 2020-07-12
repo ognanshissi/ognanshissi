@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/ognanshissi/images/master/bg.png)
+![logo](https://raw.githubusercontent.com/ognanshissi/images/master/second_bg.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">LinkedIn</a> -
