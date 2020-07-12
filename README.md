@@ -1,4 +1,4 @@
-### JAVASCRIPT Enthusiast and MEAN Stack Developer
+### Software Enginer | JAVASCRIPT Enthusiast | MEAN Stack Developer
 
 
 <!--
