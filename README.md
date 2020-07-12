@@ -1,4 +1,4 @@
-### Ambroise BAZIE JAVASCRIPT DEVELOPER
+### JAVASCRIPT Enthusiast and MEAN Stack Developer
 
 
 <!--
