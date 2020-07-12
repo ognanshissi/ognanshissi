@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://raw.githubusercontent.com/ognanshissi/images/master/bg.png)
 
 ### Software Enginer | JAVASCRIPT Enthusiast | MEAN Stack Developer
 
