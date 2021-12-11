@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Insurance applications with Angular
 
-- 🌱 I’m currently learning .NET and it very fun, i built portal applications with identityServer4
+- 🌱 I’m currently learning .NET and it's very fun, i built portal applications with identityServer4
 <!--
 **ognanshissi/ognanshissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
