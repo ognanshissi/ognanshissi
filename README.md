@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/ognanshissi/images/master/second_bg.png)
+![image](https://user-images.githubusercontent.com/28239213/150961302-e80924b7-6754-4336-a0a3-e3526d0a7e74.png)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">LinkedIn</a> -
