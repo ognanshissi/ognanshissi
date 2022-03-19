@@ -7,10 +7,15 @@
   <a href="https://dev.to/ognanshissi">Dev.to</a>
 </p>
 
-- 🔭 I’m currently working on Insurance applications with Angular
+- I’m currently working on Insurance applications with Angular
 - Integrate figma template into Angular application with perfection
-- 🌱 I’m currently learning .NET and it's very fun, i built portal applications with identityServer4
+- I’m currently learning .NET and it's very fun, i built portal applications with identityServer4
 - Working with Angular Material
+
+<h3>Last posts</h3>
+<ul>
+  <li><a href="https://dev.to/ognanshissi/angular-tailwindcss-d65">Angular and Tailwindcss</a></li>
+</ul>
 <!--
 **ognanshissi/ognanshissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
