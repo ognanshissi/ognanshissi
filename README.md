@@ -8,8 +8,9 @@
 </p>
 
 - 🔭 I’m currently working on Insurance applications with Angular
-
+- Integrate figma template into Angular application with perfection
 - 🌱 I’m currently learning .NET and it's very fun, i built portal applications with identityServer4
+- Working with Angular Material
 <!--
 **ognanshissi/ognanshissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
