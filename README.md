@@ -12,6 +12,12 @@
 - I’m currently learning .NET and it's very fun, i built portal applications with identityServer4
 - Working with Angular Material
 
+<h3>Npm Packages</h3>
+
+<ul>
+  <li><a target="_blank" href="https://www.npmjs.com/package/@ambroisebazie/ngx-animations">Angular animations predefined triggers </a></li>
+ </ul>
+
 <h3>Last posts</h3>
 <ul>
   <li><a target="_blank" href="https://dev.to/ognanshissi/angular-tailwindcss-d65">Angular and Tailwindcss</a></li>
