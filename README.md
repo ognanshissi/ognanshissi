@@ -1,6 +1,7 @@
 Hi there, i'm <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">Ambroise BAZIE</a>
 
-<a align="center" target="_blank"  href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/" style="display: block;">![image](https://user-images.githubusercontent.com/28239213/150961302-e80924b7-6754-4336-a0a3-e3526d0a7e74.png)</a>
+
+![image](https://user-images.githubusercontent.com/28239213/150961302-e80924b7-6754-4336-a0a3-e3526d0a7e74.png)
 
 
 <p align="center">
