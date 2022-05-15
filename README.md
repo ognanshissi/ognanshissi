@@ -12,7 +12,7 @@ Hi there, i'm <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">Amb
 
 - I’m currently working on Insurance applications with Angular
 - Integrate figma template into Angular application with perfection
-- I’m currently learning .NET and it's very fun, i built portal applications with identityServer4
+- I’m currently learning .NET and it's very fun, i built portal applications with identityServer4 (development)
 - Working with Angular Material
 
 <h3>Npm Packages</h3>
