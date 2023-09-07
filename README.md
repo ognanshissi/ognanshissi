@@ -26,6 +26,7 @@ Hi there, i'm <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">Amb
   <li><a target="_blank" href="https://dev.to/ognanshissi/angular-tailwindcss-d65">Angular and Tailwindcss</a></li>
   <li><a target="_blank" href="https://dev.to/ognanshissi/mongoose-deep-populate-31p4">Mongoose deep populate</a></li>
   <li><a target="_blank" href="https://dev.to/ognanshissi/everything-to-know-about-for-in-and-for-of-13g6">Everything to know about for...in and for...of</a></li>
+  <li><a target="_blank" href="https://dev.to/ognanshissi/what-is-ngcomponentoutlet--1hdl">Angular NgComponentOutlet </a></li>
 </ul>
 <!--
 **ognanshissi/ognanshissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
