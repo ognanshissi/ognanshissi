@@ -19,6 +19,7 @@ Hi there, i'm <a href="https://www.linkedin.com/in/ambroise-bazie-899a41ab/">Amb
 
 <ul>
   <li><a target="_blank" href="https://www.npmjs.com/package/@ambroisebazie/ngx-animations">Angular animations predefined triggers.</a></li>
+  <li><a target="_blank" href="https://www.npmjs.com/package/@talisoft/ui">Angular custom components</a></li>
  </ul>
 
 <h3>Last posts</h3>
